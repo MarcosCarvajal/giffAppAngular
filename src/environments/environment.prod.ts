@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  gifs: 'https://api.giphy.com/v1/gifs/',
 };
